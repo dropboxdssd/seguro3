@@ -45,7 +45,7 @@ if($cargados){
 }
 
 
-header ("Location: subirimagenes.php");
+header ("Location: index.php");
 
 	
 ?>
